@@ -1,0 +1,21 @@
+edit:
+  header:
+   - ""
+  footer:
+   - ""
+list_groups:
+  default:
+    prefix:
+    priority: 4
+  vip:
+    prefix:
+    priority: 3
+  dev:
+    prefix:
+    priority: 2
+  operateur:
+    prefix:
+    priority: 1
+  admin:
+    prefix:
+    priority: 0
